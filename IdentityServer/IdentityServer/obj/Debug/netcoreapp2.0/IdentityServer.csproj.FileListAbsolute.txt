@@ -1,0 +1,11 @@
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.deps.json
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.json
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.runtimeconfig.dev.json
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.dll
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csprojResolveAssemblyReference.cache
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.csproj.CoreCompileInputs.cache
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfoInputs.cache
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.AssemblyInfo.cs
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.0\IdentityServer.pdb
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.dll
+E:\Docs\January\Authetication and Authorization\IdentityServer\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.0\IdentityServer.pdb
