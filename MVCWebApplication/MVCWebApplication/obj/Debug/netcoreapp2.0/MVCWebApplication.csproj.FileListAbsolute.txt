@@ -1,0 +1,11 @@
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\bin\Debug\netcoreapp2.0\MVCWebApplication.deps.json
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\bin\Debug\netcoreapp2.0\MVCWebApplication.runtimeconfig.json
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\bin\Debug\netcoreapp2.0\MVCWebApplication.runtimeconfig.dev.json
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\bin\Debug\netcoreapp2.0\MVCWebApplication.dll
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\bin\Debug\netcoreapp2.0\MVCWebApplication.pdb
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\obj\Debug\netcoreapp2.0\MVCWebApplication.csprojResolveAssemblyReference.cache
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\obj\Debug\netcoreapp2.0\MVCWebApplication.csproj.CoreCompileInputs.cache
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\obj\Debug\netcoreapp2.0\MVCWebApplication.AssemblyInfoInputs.cache
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\obj\Debug\netcoreapp2.0\MVCWebApplication.AssemblyInfo.cs
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\obj\Debug\netcoreapp2.0\MVCWebApplication.dll
+E:\Docs\January\Authetication and Authorization\MVCWebApplication\MVCWebApplication\obj\Debug\netcoreapp2.0\MVCWebApplication.pdb
