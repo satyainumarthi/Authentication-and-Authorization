@@ -1,0 +1,11 @@
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.dll
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.pdb
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csprojResolveAssemblyReference.cache
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.dll
+E:\Docs\January\Authetication and Authorization\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.pdb
